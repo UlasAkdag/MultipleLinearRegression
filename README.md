@@ -1,2 +1,3 @@
-# MachineLearning
-Beginner level codes on the field machine learning.
+# Multiple Linear Regression
+
+Simple, beginner level python codes on multiple linear regression.
